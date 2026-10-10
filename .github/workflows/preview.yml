@@ -6,6 +6,8 @@ on:
 
 permissions:
   contents: read
+  # The build comments on the pull request with a link to its preview.
+  pull-requests: write
 
 jobs:
   build:
