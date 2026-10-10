@@ -1,6 +1,6 @@
 # Writing guide
 
-This guide covers everything written for the project: docs, issues, pull requests, commit messages, code comments, error messages, and replies and reports to the maintainer. The aim is text that a reader understands the first time they read it. The examples use a made-up expense tracker.
+This guide covers everything written for the project: docs, issues, pull requests, commit messages, code comments, error messages, and replies and reports to the maintainer. The aim is text that a reader understands the first time they read it. The examples in this guide use a made-up expense tracker.
 
 ## Know your reader
 
